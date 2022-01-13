@@ -1,0 +1,7 @@
+venv/*
+.idea/*
+writeup/*.pdf
+**/*.out
+**/*.log
+**/*.aux
+**/*.gz
